@@ -63,18 +63,20 @@ I build for **scale, inevitability, and leverage** — not demos.
 
 ---
 
-## 📈 GitHub Stats
+
 
 ---
 
-## 📈 GitHub Signal
+---
+
+## 📈 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2bbc8a&text_color=c9cacc&bg_color=0f2027" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=ffffff&text_color=c9cacc&bg_color=0f2027&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
+
 
 
 ## 🧭 Direction
