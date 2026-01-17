@@ -9,17 +9,10 @@
 </p>
 
 <p align="center">
-  Intelligent infrastructure. Autonomous systems. Scalable leverage.
+  Intelligent infrastructure. Autonomous systems.
 </p>
 
-# Daniel Okinda  
-*AI Engineer • Systems Builder • Founder @ Modexia*
 
-I design and build **intelligent systems** that automate work, scale cleanly,  
-and turn complexity into infrastructure.
-
-This profile is a live system:  
-experiments, production-grade tools, and ideas engineered to grow teeth.
 
 ---
 
