@@ -65,15 +65,17 @@ I build for **scale, inevitability, and leverage** — not demos.
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/Modaniels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+---
 
-<a href="https://github.com/Modaniels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## 📈 GitHub Signal
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2bbc8a&text_color=c9cacc&bg_color=0f2027" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=ffffff&text_color=c9cacc&bg_color=0f2027&langs_count=6" />
+</p>
 
 ---
+
 
 ## 🧭 Direction
 
