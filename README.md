@@ -8,86 +8,17 @@
   <b>AI Engineer • Systems Builder • Founder @ Modexia</b>
 </p>
 
-<p align="center">
-  Intelligent infrastructure. Autonomous systems.
-</p>
 
 
-
----
-
-## 🔧 Technologies & Tools
-
-### 🧠 Core Stack
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-
----
-
-### ⚙️ Backend, Infra & Systems
-![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Architecture-API_First-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Systems-Distributed-informational?style=flat&logo=icloud&logoColor=white&color=2bbc8a)
-
----
-
-### 🧠 AI & Automation
-![](https://img.shields.io/badge/AI-Machine_Learning-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-Autonomous_Agents-informational?style=flat&logo=robotframework&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-Model_Orchestration-informational?style=flat&logo=apache-airflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-Workflow_Driven-informational?style=flat&logo=semantic-release&logoColor=white&color=2bbc8a)
-
----
-
-### 🔁 Engineering Workflow
-![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Automated-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Principle-Observability_Over_Guesswork-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
-
----
-
-## 🚀 What I’m Focused On
-
-- Autonomous AI platforms that **act**, not just respond  
-- Payment-aware AI infrastructure  
-- Systems that decide *when not to run*  
-- Turning Modexia into long-term intelligent infrastructure  
-
-I build for **scale, inevitability, and leverage** — not demos.
-
----
-
-
-
----
-
----
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" />
-</p>
-
----
 
 
 
 ## 🧭 Direction
 
 I’m building toward a future where:
-- AI is **infrastructure**, not spectacle  
-- Small teams wield **absurd leverage**  
-- Software multiplies human intent  
+- AI is **infrastructure**
 
-Quiet systems. Loud impact.
 
----
+
 
 > *Build quietly. Scale deliberately. Let the system speak.*
