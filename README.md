@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer • Systems Builder • Founder @ Modexia</b>
+  <b>AI Engineer • Systems Builder • CTO @ Modexia</b>
 </p>
 
 ## 🧭 Direction
