@@ -10,7 +10,6 @@
 
 I’m building toward a future where:
 - AI is **infrastructure**
-- Machines are **economic actors**
 - Systems are **autonomous by default**
 
 > *Build quietly. Scale deliberately. Let the system speak.*
